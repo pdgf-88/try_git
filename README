@@ -3,9 +3,12 @@
 % %date
 
 # Sample Section Title
+
 Here is the overall topic
+
 ## Sample Subsection Title
 Here is a list of Markdown styles:
+
 1. _Test1_
 2. *Test2*
 3. **Test3*
